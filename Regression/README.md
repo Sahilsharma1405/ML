@@ -9,4 +9,13 @@ This folder contains implementations of various regression techniques.
   - Gradient Descent implementation
   - Dataset: placement.csv
 
-More regression methods will be added soon.
+-Polynomial Linear Regression
+
+-Multiple Regression
+  -Scikit-Learn implementation
+  -Closed-form method(OLS)
+
+=Regularization
+  -Ridge
+  -Lasso
+  -ElasticNet
